@@ -1,0 +1,25 @@
+{
+  "seed": 20261003,
+  "folds": 5,
+  "cv_repeats": 1,
+  "stability_subsamples": 20,
+  "subsample_fraction": 0.8,
+  "rare_min_count": 20,
+  "include_missing_indicators": false,
+  "l1_ratios": [0.5, 0.9],
+  "alphas": [0.5],
+  "primary_method": "lasso",
+  "primary_alpha": 0.5,
+  "selection_frequency_threshold": 0.6,
+  "max_original_variables": null,
+  "max_design_columns": null,
+  "correlation_alert_threshold": 0.7,
+  "coef_threshold": 0.1,
+  "relative_group_threshold": 0.1,
+  "max_iter": 2000,
+  "tol": 0.001
+  ,"continuous_imputation": "mice"
+  ,"mice_imputations": 5
+  ,"mice_max_iter": 3
+  ,"mice_nearest_features": 15
+}

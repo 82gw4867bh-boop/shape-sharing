@@ -1,0 +1,7 @@
+﻿timing,split,n_patients,n_complete_upper_10_items,n_complete_lower_10_items,n_complete_all_20_items,n_source_total_valid,n_complete_and_total_valid,n_complete_total_matches
+rehab_admit,train,3161,2570,2586,2503,2503,2503,2503
+rehab_admit,internal_validation,790,630,642,615,615,615,615
+rehab_admit,temporal_test_primary,2610,1043,1066,1028,1028,1028,1028
+discharge,train,3161,2937,2940,2885,2885,2885,2885
+discharge,internal_validation,790,713,729,703,703,703,703
+discharge,temporal_test_primary,2610,2407,2437,2383,2383,2383,2383

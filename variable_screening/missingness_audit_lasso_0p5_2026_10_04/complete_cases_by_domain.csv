@@ -1,0 +1,13 @@
+﻿domain,split,n_patients,n_complete,complete_fraction,n_at_least_one_missing,median_missing_fields,p90_missing_fields
+physical_independence,train,3161,2211,0.6994621955077507,950,0.0,3.0
+physical_independence,internal_validation,790,537,0.6797468354430379,253,0.0,4.0
+physical_independence,temporal_test_primary,2610,943,0.36130268199233717,1667,2.0,5.0
+mobility,train,3161,2104,0.6656121480544132,1057,0.0,2.0
+mobility,internal_validation,790,505,0.6392405063291139,285,0.0,3.0
+mobility,temporal_test_primary,2610,919,0.3521072796934866,1691,1.0,3.0
+occupation,train,3161,2544,0.804808604871876,617,0.0,1.0
+occupation,internal_validation,790,617,0.7810126582278482,173,0.0,1.0
+occupation,temporal_test_primary,2610,2103,0.8057471264367816,507,0.0,1.0
+social_integration,train,3161,2645,0.8367605188231573,516,0.0,1.0
+social_integration,internal_validation,790,645,0.8164556962025317,145,0.0,1.0
+social_integration,temporal_test_primary,2610,2187,0.8379310344827586,423,0.0,1.0

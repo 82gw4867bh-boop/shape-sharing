@@ -1,0 +1,1022 @@
+\n--- PAGE 1 ---\n                                                                                                                                                           
+Variable List                                                                                                                                                                                    
+for the                                                                                                                                                                                                                   
+DFJDF DFDFDFKDFDKKKKKKKKKKKKKKKKKKKKKFGFFGFFFFFFFFFFFFFFFFFFFFFF 
+FKKKKKNational Spinal Cord Injury Model Systems 
+Database F                                                             
+GFGFGFGFGFGFGFGFGFGFGFGFGFGFGF                                                                                       
+Public Use Data
+                                                                                                                                                                                                                                                                                                                    
+Version 2021AR
+Page 1\n\n--- PAGE 2 ---\nForm Form I - Variable Name Var Alias Data Since
+Unique ID UniID
+1 Date of Injury (Note: date is converted into year) AInjDt 1973
+2 Date of First Non-System Admit Modifier ANSysAdM Oct-16
+3 Date of First Non-System Admit  (Note: date is converted 
+into year) ANSysAdD Oct-16
+4 Date of First System Admission (Note: date is converted 
+into year) AAdmDt 1973
+5 Date of First System Inpatient Rehab Modifier ARbAdDtM Oct-06
+6 Date of First System Inpatient Rehab Admission (Note: 
+date is converted into year) ARbAdmDt 1973
+7 Date of Discharge (Note: date is converted into year) ADisDt 1973
+8 Number of Short-Term Discharge Days Between Acute ASDDAc2R 1973
+9 Number of Short-Term Discharge Days During Rehab ASDDDurR 1973
+10 Number of Days from Injury to First System Admission AI2ADays 1973
+11 Number of Days from Injury to Inpatient Rehab Admission AI2RhADa 1973
+12 Number of Days Hospitalized in System’s Acute Med  Unit AHDaSyAc 1973
+13 Number of Days Hospitalized in System’s Inpatient Rehab AHDaSyRb 1973
+14 Age at injury (Note: Age is grouped into: 0-5y, 6-12y, 13-
+14y, 15y, 16y.... 88y, and 88+y) AInjAge 1973
+15 Sex ASex 1973
+16 Place of Residence at Injury APResInj 1973
+16 Place of Residence at Discharge APResDis 1973
+20 Traumatic Etiology ATrmEtio 1973
+21 External Cause of Injury AExtCsIj Aug-05
+22 Vertebral Injury AVertInj Oct-06
+23 Associated Injury AAsscInj Oct-06
+24 Spinal Surgery ASpinSrg Oct-06
+25 Height During System AHghtRhb Oct-06
+26 Weight During System AWghtRhb Oct-06
+27 Utilization of Mechanical Ventilation at System Rehab AUMVAdm Oct-00
+27 Utilization of Mechanical Ventilation at Discharge AUMVDis Oct-00
+28 Method of Bladder Management at Discharge ABdMMDis 1973
+29 CARE - Eating at Rehab Admit ACrEatR Oct-16
+29 CARE - Oral Hygiene at Rehab Admit ACrOrlR Oct-16
+29 CARE - Toileting hygiene at Rehab Admit ACrTlHyR Oct-16
+29 CARE - Shower/bathe self at Rehab Admit ACrShrR Oct-16
+29 CARE - Upper body dressing at Rehab Admit ACrUpDrR Oct-16
+29 CARE -  Lower body dressing at Rehab Admit ACrLrDrR Oct-16
+29 CARE - Putting on/taking off footwear at Rehab Admit ACrFtrR Oct-16
+29 CARE - Roll left to right at Rehab Admit ACrRllR Oct-16
+29 CARE - Sitting to lying at Rehab Admit ACrStLyR Oct-16
+29 CARE - Lying to sitting on side of bed at Rehab Admit ACrLyStR Oct-16
+29 CARE - Sit to stand at Rehab Admit ACrStSdR Oct-16
+29 CARE - Chair/bed-to-chair transfer at Rehab Admit ACrChrTR Oct-16
+29 CARE - Toilet transfer at Rehab Admit ACrTltTR Oct-16
+29 CARE - Car transfer at Rehab Admit ACrCarR Oct-16
+Page 2\n\n--- PAGE 3 ---\n29 CARE - H1. Does patient walk at Rehab Admit ACrWalkR Oct-16
+29 CARE - Walk 10 feet at Rehab Admit ACrWa10R Oct-16
+29 CARE - Walk 50 feet with 2 turns at Rehab Admit ACrW502R Oct-16
+29 CARE - Walk 150 feet at Rehab Admit ACrW150R Oct-16
+29 CARE - Walk 10 feet on uneven surface at Rehab Admit ACrWaUnR Oct-16
+29 CARE - 1 step (curb) at Rehab Admit ACr1StpR Oct-16
+29 CARE -  4 steps at Rehab Admit ACr4StpR Oct-16
+29 CARE - 12 steps at Rehab Admit ACr12StR Oct-16
+29 CARE - Picking up object (from standing) at Rehab Admit ACrPiUpR Oct-16
+29 CARE - Q1. Does patient use wheelchair/scooter at Rehab ACrChR Oct-16
+29 CARE - R. Wheel 50 feet with 2 turns at Rehab Admit ACrCh50R Oct-16
+29 CARE - RR1 Type of wheelchair/scooter used at Rehab ACrT50R Oct-16
+29 CARE - S. Wheel 150 feet at Rehab Admit ACrC150R Oct-16
+29 CARE - SS1. 150 Ft Type of wheelchair/scooter used at ACrT150R Oct-16
+29 CARE - Eating at Discharge ACrEatD Oct-16
+29 CARE - Oral Hygiene at Discharge ACrOrlD Oct-16
+29 CARE - Toileting hygiene at Discharge ACrTlHyD Oct-16
+29 CARE - Shower/bathe self at Discharge ACrShrD Oct-16
+29 CARE - Upper body dressing at Discharge ACrUpDrD Oct-16
+29 CARE - Lower body dressing at Discharge ACrLrDrD Oct-16
+29 CARE - Putting on/taking off footwear at Discharge ACrFtrD Oct-16
+29 CARE - Roll left to right at Discharge ACrRllD Oct-16
+29 CARE - Sit to lying at Discharge ACrStLyD Oct-16
+29 CARE - Lying to sitting on side of bed at Discharge ACrLyStD Oct-16
+29 CARE - Sit to stand at Discharge ACrStSdD Oct-16
+29 CARE - Chair/bed-to-chair transfer at Discharge ACrChrTD Oct-16
+29 CARE - Toilet transfer at Discharge ACrTltTD Oct-16
+29 CARE - Car transfer at Discharge ACrCarD Oct-16
+29 CARE – H3. Walk at Discharge ACrWalkD Oct-16
+29 CARE - Walk 10 feet at Discharge ACrWa10D Oct-16
+29 CARE - Walk 50 feet with 2 turns at Discharge ACrW502D Oct-16
+29 CARE - Walk 150 feet at Discharge ACrW150D Oct-16
+29 CARE - Walk 10 feet on uneven surface at Discharge ACrWaUnD Oct-16
+29 CARE - 1 step (curb) at Discharge ACr1StpD Oct-16
+29 CARE -  4 steps at Discharge ACr4StpD Oct-16
+29 CARE - 12 steps at Discharge ACr12StD Oct-16
+29 CARE - Picking up object(from standing) at Discharge ACrPiUpD Oct-16
+29 CARE - Q3. Does patient use wheelchair/scooter at ACrChD Oct-16
+29 CARE - R. Wheel 50 feet with 2 turns at Discharge ACrCh50D Oct-16
+29 CARE - RR1. Type of wheelchair/scooter used at Discharge ACrT50D Oct-16
+29 CARE - S. Wheel 150 feet at Discharge ACrC150D Oct-16
+29 CARE - SS1. Type of wheelchair/scooter used at Discharge ACrT150D Oct-16
+30AA FIM - Eating Rehab Admit AFEatgRb Nov-88 to Sep-18
+30AB FIM - Self Care: Grooming - Rehab Admit AFGrmgRb Nov-88 to Sep-18
+30AC FIM - Self Care: Bathing  - Rehab Admit AFBthgRb Nov-88 to Sep-18
+30AD FIM - Self Care: Dressing, Upper Body  - Rehab Admit AFDrUpRb Nov-88 to Sep-18
+30AE FIM - Self Care: Dressing, Lower Body  - Rehab Admit AFDrLoRb Nov-88 to Sep-18
+30AF FIM - Self Care: Toileting  - Rehab Admit AFTltgRb Nov-88 to Sep-18
+30AG FIM - Sphincter Control: Bladder Mgt - Rehab Admit AFBdMgRb Nov-88 to Sep-18
+Page 3\n\n--- PAGE 4 ---\n30AH FIM - Sphincter Control: Bowel Mgt - Rehab Admit AFBwMgRb Nov-88 to Sep-18
+30AI FIM - Mobility (Transfer): Bed, Chair  - Rehab Admit AFMBCWRb Nov-88 to Sep-18
+30AJ FIM - Mobility (Transfer): Toilet - Rehab Admit AFMTltRb Nov-88 to Sep-18
+30AK FIM - Mobility (Transfer): Tub, Shower - Rehab Admit AFMTShRb Nov-88 to Sep-18
+30AL FIM - Locomotion:  Walk or Wheelchair  - Rehab Admit AFLWWcRb Nov-88 to Sep-18
+30AL FIM - Locomotion:  Mode  - Rehab Admit AFLModRb Nov-88 to Sep-18
+30AM FIM - Locomotion:  Stairs  - Rehab Admit AFLStrRb Nov-88 to Sep-18
+30AT FIM - Total Score  - Rehab Admit AFScorRb Nov-88 to Sep-18
+30DA FIM - Eating Discharge from Inpatient Rehab AFEatgDs Nov-88 to Sep-18
+30DB FIM - Self Care: Grooming - Rehab Discharge AFGrmgDs Nov-88 to Sep-18
+30DC FIM - Self Care: Bathing - Rehab Discharge AFBthgDs Nov-88 to Sep-18
+30DD FIM - Self Care: Dressing, Upper Body - Rehab Discharge AFDrUpDs Nov-88 to Sep-18
+30DE FIM - Self Care: Dressing, Lower Body - Rehab Discharge AFDrLoDs Nov-88 to Sep-18
+30DF FIM - Self Care: Toileting - Rehab Discharge AFTltgDs Nov-88 to Sep-18
+30DG FIM - Sphincter Control: Bladder Mgt - Rehab Discharge AFBdMgDs Nov-88 to Sep-18
+30DH FIM - Sphincter Control: Bowel Mgt - Rehab Discharge AFBwMgDs Nov-88 to Sep-18
+30DI FIM - Mobility (Transfer): Bed, Chair - Rehab Discharge AFMBCWDs Nov-88 to Sep-18
+30DJ FIM - Mobility (Transfer): Toilet- Rehab Discharge AFMTltDs Nov-88 to Sep-18
+30DK FIM - Mobility (Transfer): Tub, Shower- Rehab Discharge AFMTShDs Nov-88 to Sep-18
+30DL FIM - Locomotion:  Walk or Wheelchair - Rehab Discharge AFLWWcDs Nov-88 to Sep-18
+30DL FIM - Locomotion:  Mode - Rehab Discharge AFLModDs Nov-88 to Sep-18
+30DM FIM - Locomotion:  Stairs - Rehab Discharge AFLStrDs Nov-88 to Sep-18
+30DT FIM - Total Score - Rehab Discharge AFScorDs Nov-88 to Sep-18
+31 Hispanic Origin AHispnic 1973
+32 Racial or Ethnic Group ARace 1973
+33 Ability to speak & understand English ASpkEngl Feb-96
+34 Marital Status at Injury AMarStIj 1973
+35 Highest Formal Educational Level Completed at Injury AEducLvl 1973
+36 Health Literacy: confidence filling out medical forms by ALitConf Oct-16
+37 Health Literacy: difficulty understanding written medical ALitUnd Oct-16
+38 Health Literacy: someone help you read hospital materials ALitRead Oct-16
+40 SCI QoL Res: I had a positive attitude. ARsPosAt Oct-16
+41 SCI QoL Res:I felt good about how I have coped with my ARsGdCp Oct-16
+42 SCI QoL Res:I used positive ways to cope with my injury. ARsPosCp Oct-16
+43 SCI QoL Res:I felt I can get through difficult times. ARsDifTm Oct-16
+44 SCI QoL Res:I tried to see the positive side of things. ARsPosSd Oct-16
+45 SCI QoL Res:I was confident that I could overcome my ARsOvrLm Oct-16
+46 SCI QoL Res:I took action to improve my life. ARsAct Oct-16
+47 SCI QoL Res:I found new things to enjoy. ARsNewTh Oct-16
+48 SCI QoL Res Short Form T Score ARsTScr Oct-16
+49 SCI QoL Res Short Form Stand Error ARsStEr Oct-16
+50 PHQ-1: little interest or pleasure ABPHQ1 Oct-16
+51 PHQ-2: feeling down, depressed, or hopeless ABPHQ2 Oct-16
+52 PHQ-3: trouble falling or staying asleep, …too much? ABPHQ3 Oct-16
+53 PHQ-4: feeling tired or having little energy? ABPHQ4 Oct-16
+54 PHQ-5: poor appetite or overeating? ABPHQ5 Oct-16
+55 PHQ-6: feeling bad about yourself … failure … ? ABPHQ6 Oct-16
+56 PHQ-7: trouble concentrating on things ...? ABPHQ7 Oct-16
+57 PHQ-8: moving or speaking so slowly ... or opposite  ...? ABPHQ8 Oct-16
+Page 4\n\n--- PAGE 5 ---\n58 PHQ-9: thoughts ...better off dead or hurting yourself? ABPHQ9 Oct-16
+59 PHQ: Major Depressive Syndrome ABPHQMDS Oct-16
+60 PHQ: Severity of Depression Score ABPHQSDS Oct-16
+61 Anxiety: Lifetime history of anxiety diagnosis AAnxiety Oct-11
+62 Depression: Lifetime history of depression diagnosis ADepress Oct-11
+63 How many times pregnant APregnan Oct-16
+64 How many live births ALivBrth Oct-16
+65 Diabetes, Diagnosed Lifetime ADiabete Oct-11
+66 Hypertension, Diagnosed Lifetime AHypTen Oct-16
+67 Hyperlipidemia, Diagnosed Lifetime AHypLip Oct-16
+68 Arthritis, Diagnosed Lifetime AArthr Oct-16
+69 FIM - Sphincter Control: Bladder Level of Asst (7 days) AFBdAsst Oct-16 to Sep-18
+70 FIM - Sphincter Control: Bladder Accidents (7 days) AFBdAcc7 Oct-16 to Sep-18
+71 Bladder Incontinence  - Intl Dataset ABldAcIn Oct-16
+72 Bowel Method - Intl Dataset ABwlMeth Oct-16
+73 Bowel Frequency - Intl Dataset ABwlFreq Oct-16
+74 Bowel Time to defecate  - Intl Dataset ABwlTime Oct-16
+75 FIM - Sphincter Control: Bowel Level of Asst (7 days) AFBwAsst Oct-16 to Sep-18
+76 FIM - Sphincter Control: Bowel Accident (7 days) AFBwAcc7 Oct-16 to Sep-18
+77 Bowel Incontinence  - Intl Dataset ABwlAcIn Oct-16
+78 Primary Payer APrimPay 1973-2006, Oct-11
+79 Veteran Status AVeteran Oct-00
+80 Primary Occupational, Educational or Training Status APrLvlSt 1973
+81 Job Census Code AJobCnCd Oct-00
+82 Work Relatedness AWrkRltd Oct-00
+83 Family Income Level AFmIncLv Oct-11
+84 Alcohol use: AUDIT C - Often did you have a drink AAlcRate Oct-11
+85 Alcohol use: AUDIT C - drinks on a typical day AAlcNbDr Oct-11
+86 Alcohol use: AUDIT C - 6 or more drinks on one occasion AAlc6Mor Oct-11
+87 Substance Abuse: WHO Assist 2 (Tobacco) ASATob Oct-16
+88 Substance Abuse: WHO Assist 2 (Cannabis) ASACann Oct-16
+89 Substance Abuse: WHO Assist 2 (Cocaine) ASACoc Oct-16
+90 Substance Abuse: WHO Assist 2 (Amphetamine-type) ASAAmph Oct-16
+91 Substance Abuse: WHO Assist 2 (Inhalants) ASAInhl Oct-16
+92 Substance Abuse: WHO Assist 2 (Sedatives/Sleeping) ASASed Oct-16
+93 Substance Abuse: WHO Assist 2 (Hallucinogens) ASAHall Oct-16
+94 Substance Abuse: WHO Assist 2 (Opiods) ASAOpd Oct-16
+95 Substance Abuse: WHO Assist 2 (Other) ASAOthr Oct-16
+96 SCI-FI AT Interview Method Modifier ASFIntM Oct-16
+97 SCI-FI AT Conducted Date Modifier ASFDtMd Oct-16
+98 SCI-FI AT Conducted Date (Note: date is converted into 
+year) ASFDate Oct-16
+99 SCI-FI Paraplegia or tetraplegia ASFPaTe Oct-16
+100 SCI-FI Walk at least some of the time ASFAmb Oct-16
+101 SCI-FI Do you use a manual and/or power wheelchair ASFMPWhl Oct-16
+102 SCI-FI Basic Mobility Raw Score ASFBMRS Oct-16
+102 SCI-FI Basic Mobility T Score ASFBMTS Oct-16
+102 SCI-FI Basic Mobility Error ASFBMEr Oct-16
+103 SCI-FI Self-Care Raw Score ASFSCRS Oct-16
+Page 5\n\n--- PAGE 6 ---\n103 SCI-FI Self-Care T Score ASFSCTS Oct-16
+103 SCI-FI Self-Care Error ASFSCEr Oct-16
+104 SCI-FI Fine Motor Raw Score ASFFMoRS Oct-16
+104 SCI-FI Fine Motor T Score ASFFMoTS Oct-16
+104 SCI-FI Fine Motor Error ASFFiMoEr Oct-16
+105 SCI-FI Ambulation Raw Score ASFAmbRS Oct-16
+105 SCI-FI Ambulation T Score ASFAmbTS Oct-16
+105 SCI-FI Ambulation Error ASFAmbEr Oct-16
+106 SCI-FI Manual Wheelchair Mobility Raw Score ASFMWhRS Oct-16
+106 SCI-FI Manual Wheelchair Mobility T Score ASFMWhTS Oct-16
+106 SCI-FI Manual Wheelchair Mobility Error ASFMWhEr Oct-16
+107 SCI-FI Power Wheelchair Mobility Raw Score ASFPWhRS Oct-16
+107 SCI-FI Power Wheelchair Mobility T Score ASFPWhTS Oct-16
+107 SCI-FI Power Wheelchair Mobility Error ASFPWhEr Oct-16
+112 ASIA Motor Index Score, C5, Acute Med Unit Exam, Right AASAC5AR Aug-93
+112 ASIA Motor Index Score, C6, Acute Med Unit Exam, Right AASAC6AR Aug-93
+112 ASIA Motor Index Score, C7, Acute Med Unit Exam, Right AASAC7AR Aug-93
+112 ASIA Motor Index Score, C8, Acute Med  Unit Exam, Right AASAC8AR Aug-93
+112 ASIA Motor Index Score, T1, Acute Med  Unit Exam, Right AASAT1AR Aug-93
+112 ASIA Motor Index Score, L2, Acute Med  Unit Exam, Right AASAL2AR Aug-93
+112 ASIA Motor Index Score, L3, Acute Med  Unit Exam, Right AASAL3AR Aug-93
+112 ASIA Motor Index Score, L4, Acute Med  Unit Exam, Right AASAL4AR Aug-93
+112 ASIA Motor Index Score, L5, Acute Med  Unit Exam, Right AASAL5AR Aug-93
+112 ASIA Motor Index Score, S1, Acute Med  Unit Exam, Right AASAS1AR Aug-93
+112 ASIA Motor Index Score Acute Med  Unit Exam Subtotal AASAStAR Oct-86
+112 ASIA Motor Index Score, C5, Acute Med  Unit Exam, Left AASAC5AL Aug-93
+112 ASIA Motor Index Score, C6, Acute Med  Unit Exam, Left AASAC6AL Aug-93
+112 ASIA Motor Index Score, C7, Acute Med  Unit Exam, Left AASAC7AL Aug-93
+112 ASIA Motor Index Score, C8, Acute Med  Unit Exam, Left AASAC8AL Aug-93
+112 ASIA Motor Index Score, T1, Acute Med  Unit Exam, Left AASAT1AL Aug-93
+112 ASIA Motor Index Score, L2, Acute Med  Unit Exam, Left AASAL2AL Aug-93
+112 ASIA Motor Index Score, L3, Acute Med  Unit Exam, Left AASAL3AL Aug-93
+112 ASIA Motor Index Score, L4, Acute Med  Unit Exam, Left AASAL4AL Aug-93
+112 ASIA Motor Index Score, L5, Acute Med  Unit Exam, Left AASAL5AL Aug-93
+112 ASIA Motor Index Score, S1, Acute Med  Unit Exam, Left AASAS1AL Aug-93
+112 ASIA Motor Index Score Acute Med  Unit Exam Subtotal AASAStAL Oct-86
+112 ASIA Motor Index Score Acute Med  Unit Exam Total AASATotA Oct-86
+113 Sensory LT C2 Right at Acute Med ALTC2RA Oct-16
+113 Sensory LT C3 Right at Acute Med ALTC3RA Oct-16
+113 Sensory LT C4 Right at Acute Med ALTC4RA Oct-16
+113 Sensory LT C5 Right at Acute Med ALTC5RA Oct-16
+113 Sensory LT C6 Right at Acute Med ALTC6RA Oct-16
+113 Sensory LT C7 Right at Acute Med ALTC7RA Oct-16
+113 Sensory LT C8 Right at Acute Med ALTC8RA Oct-16
+113 Sensory LT T1 Right at Acute Med ALTT1RA Oct-16
+113 Sensory LT T2 Right at Acute Med ALTT2RA Oct-16
+113 Sensory LT T3 Right at Acute Med ALTT3RA Oct-16
+113 Sensory LT T4 Right at Acute Med ALTT4RA Oct-16
+113 Sensory LT T5 Right at Acute Med ALTT5RA Oct-16
+Page 6\n\n--- PAGE 7 ---\n113 Sensory LT T6 Right at Acute Med ALTT6RA Oct-16
+113 Sensory LT T7 Right at Acute Med ALTT7RA Oct-16
+113 Sensory LT T8 Right at Acute Med ALTT8RA Oct-16
+113 Sensory LT T9 Right at Acute Med ALTT9RA Oct-16
+113 Sensory LT T10 Right at Acute Med ALTT10RA Oct-16
+113 Sensory LT T11 Right at Acute Med ALTT11RA Oct-16
+113 Sensory LT T12 Right at Acute Med ALTT12RA Oct-16
+113 Sensory LT L1 Right at Acute Med ALTL1RA Oct-16
+113 Sensory LT L2 Right at Acute Med ALTL2RA Oct-16
+113 Sensory LT L3 Right at Acute Med ALTL3RA Oct-16
+113 Sensory LT L4 Right at Acute Med ALTL4RA Oct-16
+113 Sensory LT L5 Right at Acute Med ALTL5RA Oct-16
+113 Sensory LT S1 Right at Acute Med ALTS1RA Oct-16
+113 Sensory LT S2 Right at Acute Med ALTS2RA Oct-16
+113 Sensory LT S3 Right at Acute Med ALTS3RA Oct-16
+113 Sensory LT S4-5 Right at Acute Med ALTS45RA Oct-16
+113 Sensory LT Right at Acute Med Subtotal ALTSubRA Oct-16
+113 Sensory LT C2 Left at Acute Med ALTC2LA Oct-16
+113 Sensory LT C3 Left at Acute Med ALTC3LA Oct-16
+113 Sensory LT C4 Left at Acute Med ALTC4LA Oct-16
+113 Sensory LT C5 Left at Acute Med ALTC5LA Oct-16
+113 Sensory LT C6 Left at Acute Med ALTC6LA Oct-16
+113 Sensory LT C7 Left at Acute Med ALTC7LA Oct-16
+113 Sensory LT C8 Left at Acute Med ALTC8LA Oct-16
+113 Sensory LT T1 Left at Acute Med ALTT1LA Oct-16
+113 Sensory LT T2 Left at Acute Med ALTT2LA Oct-16
+113 Sensory LT T3 Left at Acute Med ALTT3LA Oct-16
+113 Sensory LT T4 Left at Acute Med ALTT4LA Oct-16
+113 Sensory LT T5 Left at Acute Med ALTT5LA Oct-16
+113 Sensory LT T6 Left at Acute Med ALTT6LA Oct-16
+113 Sensory LT T7 Left at Acute Med ALTT7LA Oct-16
+113 Sensory LT T8 Left at Acute Med ALTT8LA Oct-16
+113 Sensory LT T9 Left at Acute Med ALTT9LA Oct-16
+113 Sensory LT T10 Left at Acute Med ALTT10LA Oct-16
+113 Sensory LT T11 Left at Acute Med ALTT11LA Oct-16
+113 Sensory LT T12 Left at Acute Med ALTT12LA Oct-16
+113 Sensory LT L1 Left at Acute Med ALTL1LA Oct-16
+113 Sensory LT L2 Left at Acute Med ALTL2LA Oct-16
+113 Sensory LT L3 Left at Acute Med ALTL3LA Oct-16
+113 Sensory LT L4 Left at Acute Med ALTL4LA Oct-16
+113 Sensory LT L5 Left at Acute Med ALTL5LA Oct-16
+113 Sensory LT S1 Left at Acute Med ALTS1LA Oct-16
+113 Sensory LT S2 Left at Acute Med ALTS2LA Oct-16
+113 Sensory LT S3 Left at Acute Med ALTS3LA Oct-16
+113 Sensory LT S4-5 Left at Acute Med ALTS45LA Oct-16
+113 Sensory LT Left at Acute Med Subtotal ALTSubLA Oct-16
+113 Sensory LT Acute Med Total ALTTotA Oct-16
+113 Sensory PP C2 Right at Acute Med APPC2RA Oct-16
+113 Sensory PP C3 Right at Acute Med APPC3RA Oct-16
+Page 7\n\n--- PAGE 8 ---\n113 Sensory PP C4 Right at Acute Med APPC4RA Oct-16
+113 Sensory PP C5 Right at Acute Med APPC5RA Oct-16
+113 Sensory PP C6 Right at Acute Med APPC6RA Oct-16
+113 Sensory PP C7 Right at Acute Med APPC7RA Oct-16
+113 Sensory PP C8 Right at Acute Med APPC8RA Oct-16
+113 Sensory PP T1 Right at Acute Med APPT1RA Oct-16
+113 Sensory PP T2 Right at Acute Med APPT2RA Oct-16
+113 Sensory PP T3 Right at Acute Med APPT3RA Oct-16
+113 Sensory PP T4 Right at Acute Med APPT4RA Oct-16
+113 Sensory PP T5 Right at Acute Med APPT5RA Oct-16
+113 Sensory PP T6 Right at Acute Med APPT6RA Oct-16
+113 Sensory PP T7 Right at Acute Med APPT7RA Oct-16
+113 Sensory PP T8 Right at Acute Med APPT8RA Oct-16
+113 Sensory PP T9 Right at Acute Med APPT9RA Oct-16
+113 Sensory PP T10 Right at Acute Med APPT10RA Oct-16
+113 Sensory PP T11 Right at Acute Med APPT11RA Oct-16
+113 Sensory PP T12 Right at Acute Med APPT12RA Oct-16
+113 Sensory PP L1 Right at Acute Med APPL1RA Oct-16
+113 Sensory PP L2 Right at Acute Med APPL2RA Oct-16
+113 Sensory PP L3 Right at Acute Med APPL3RA Oct-16
+113 Sensory PP L4 Right at Acute Med APPL4RA Oct-16
+113 Sensory PP L5 Right at Acute Med APPL5RA Oct-16
+113 Sensory PP S1 Right at Acute Med APPS1RA Oct-16
+113 Sensory PP S2 Right at Acute Med APPS2RA Oct-16
+113 Sensory PP S3 Right at Acute Med APPS3RA Oct-16
+113 Sensory PP S4-5 Right at Acute Med APPS45RA Oct-16
+113 Sensory PP Right at Acute Med Subtotal APPSubRA Oct-16
+113 Sensory PP C2 Left at Acute Med APPC2LA Oct-16
+113 Sensory PP C3 Left at Acute Med APPC3LA Oct-16
+113 Sensory PP C4 Left at Acute Med APPC4LA Oct-16
+113 Sensory PP C5 Left at Acute Med APPC5LA Oct-16
+113 Sensory PP C6 Left at Acute Med APPC6LA Oct-16
+113 Sensory PP C7 Left at Acute Med APPC7LA Oct-16
+113 Sensory PP C8 Left at Acute Med APPC8LA Oct-16
+113 Sensory PP T1 Left at Acute Med APPT1LA Oct-16
+113 Sensory PP T2 Left at Acute Med APPT2LA Oct-16
+113 Sensory PP T3 Left at Acute Med APPT3LA Oct-16
+113 Sensory PP T4 Left at Acute Med APPT4LA Oct-16
+113 Sensory PP T5 Left at Acute Med APPT5LA Oct-16
+113 Sensory PP T6 Left at Acute Med APPT6LA Oct-16
+113 Sensory PP T7 Left at Acute Med APPT7LA Oct-16
+113 Sensory PP T8 Left at Acute Med APPT8LA Oct-16
+113 Sensory PP T9 Left at Acute Med APPT9LA Oct-16
+113 Sensory PP T10 Left at Acute Med APPT10LA Oct-16
+113 Sensory PP T11 Left at Acute Med APPT11LA Oct-16
+113 Sensory PP T12 Left at Acute Med APPT12LA Oct-16
+113 Sensory PP L1 Left at Acute Med APPL1LA Oct-16
+113 Sensory PP L2 Left at Acute Med APPL2LA Oct-16
+113 Sensory PP L3 Left at Acute Med APPL3LA Oct-16
+Page 8\n\n--- PAGE 9 ---\n113 Sensory PP L4 Left at Acute Med APPL4LA Oct-16
+113 Sensory PP L5 Left at Acute Med APPL5LA Oct-16
+113 Sensory PP S1 Left at Acute Med APPS1LA Oct-16
+113 Sensory PP S2 Left at Acute Med APPS2LA Oct-16
+113 Sensory PP S3 Left at Acute Med APPS3LA Oct-16
+113 Sensory PP S4-5 Left at Acute Med APPS45LA Oct-16
+113 Sensory PP Left at Acute Med Subtotal APPSubLA Oct-16
+113 Sensory PP Acute Med Total APPTotA Oct-16
+114 Sensory Level at Acute Med Exam, Right ASLAdmRt Aug-93
+114 Sensory Level at Acute Med Exam, Left ASLAdmLf Aug-93
+115 Motor Level at Acute Med Unit Exam, Right AMLAdmRt Aug-93
+115 Motor Level at Acute Med Unit Exam, Left AMLAdmLf Aug-93
+116 Level Preserved Neurologic Function at Acute Med Exam, APNFAdmR 1973
+116 Level Preserved Neurologic Function at Acute Med Exam, APNFAdmL 1973
+117 Neurologic Level of Injury at Acute Med Unit Admit ANurLvlA 1973
+118 Voluntary Anal Contraction at Acute Med Unit AVoSphAd Oct-06
+119 Deep Anal Pressure at Acute Med Unit Exam AAnSnAdm Oct-06
+120 ASIA Impairment Scale at Acute Med Unit Exam AASAImAd 1973
+121 Category of Neurologic Impairment at Acute Med Exam ANCatAdm 1973
+112 ASIA Motor Index Score, C5, Inpatient Rehab Admit, Right AASAC5RR Aug-93
+112 ASIA Motor Index Score, C6, Inpatient Rehab Admit, Right AASAC6RR Aug-93
+112 ASIA Motor Index Score, C7, Inpatient Rehab Admit, Right AASAC7RR Aug-93
+112 ASIA Motor Index Score, C8, Inpatient Rehab Admit, Right AASAC8RR Aug-93
+112 ASIA Motor Index Score, T1, Inpatient Rehab Admit, Right AASAT1RR Aug-93
+112 ASIA Motor Index Score, L2, Inpatient Rehab Admit, Right AASAL2RR Aug-93
+112 ASIA Motor Index Score, L3, Inpatient Rehab Admit, Right AASAL3RR Aug-93
+112 ASIA Motor Index Score, L4, Inpatient Rehab Admit, Right AASAL4RR Aug-93
+112 ASIA Motor Index Score, L5, Inpatient Rehab Admit, Right AASAL5RR Aug-93
+112 ASIA Motor Index Score, S1, Inpatient Rehab Admit, Right AASAS1RR Aug-93
+112 ASIA Motor Index Score Inpatient Rehab Admit Subtotal AASAStRR Aug-93
+112 ASIA Motor Index Score, C5, Inpatient Rehab Admit, Left AASAC5RL Aug-93
+112 ASIA Motor Index Score, C6, Inpatient Rehab Admit, Left AASAC6RL Aug-93
+112 ASIA Motor Index Score, C7, Inpatient Rehab Admit, Left AASAC7RL Aug-93
+112 ASIA Motor Index Score, C8, Inpatient Rehab Admit, Left AASAC8RL Aug-93
+112 ASIA Motor Index Score, T1, Inpatient Rehab Admit, Left AASAT1RL Aug-93
+112 ASIA Motor Index Score, L2, Inpatient Rehab Admit, Left AASAL2RL Aug-93
+112 ASIA Motor Index Score, L3, Inpatient Rehab Admit, Left AASAL3RL Aug-93
+112 ASIA Motor Index Score, L4, Inpatient Rehab Admit, Left AASAL4RL Aug-93
+112 ASIA Motor Index Score, L5, Inpatient Rehab Admit, Left AASAL5RL Aug-93
+112 ASIA Motor Index Score, S1, Inpatient Rehab Admit, Left AASAS1RL Aug-93
+112 ASIA Motor Index Score Inpatient Rehab Admit Subtotal AASAStRL Aug-93
+112 ASIA Motor Index Score at Inpatient Rehab Admit, Total AASATotR Aug-93
+113 Sensory LT C2 Right at Admit Rehab ALTC2RR Oct-11
+113 Sensory LT C3 Right at Admit Rehab ALTC3RR Oct-11
+113 Sensory LT C4 Right at Admit Rehab ALTC4RR Oct-11
+113 Sensory LT C5 Right at Admit Rehab ALTC5RR Oct-11
+113 Sensory LT C6 Right at Admit Rehab ALTC6RR Oct-11
+113 Sensory LT C7 Right at Admit Rehab ALTC7RR Oct-11
+113 Sensory LT C8 Right at Admit Rehab ALTC8RR Oct-11
+Page 9\n\n--- PAGE 10 ---\n113 Sensory LT T1 Right at Admit Rehab ALTT1RR Oct-11
+113 Sensory LT T2 Right at  Admit Rehab ALTT2RR Oct-11
+113 Sensory LT T3 Right at Admit Rehab ALTT3RR Oct-11
+113 Sensory LT T4 Right at Admit Rehab ALTT4RR Oct-11
+113 Sensory LT T5 Right at Admit Rehab ALTT5RR Oct-11
+113 Sensory LT T6 Right at Admit Rehab ALTT6RR Oct-11
+113 Sensory LT T7 Right at Admit Rehab ALTT7RR Oct-11
+113 Sensory LT T8 Right at Admit Rehab ALTT8RR Oct-11
+113 Sensory LT T9 Right at Admit Rehab ALTT9RR Oct-11
+113 Sensory LT T10 Right at Admit Rehab ALTT10RR Oct-11
+113 Sensory LT T11 Right at  Admit Rehab ALTT11RR Oct-11
+113 Sensory LT T12 Right at  Admit Rehab ALTT12RR Oct-11
+113 Sensory LT L1 Right at  Admit Rehab ALTL1RR Oct-11
+113 Sensory LT L2 Right at  Admit Rehab ALTL2RR Oct-11
+113 Sensory LT L3 Right at  Admit Rehab ALTL3RR Oct-11
+113 Sensory LT L4 Right at  Admit Rehab ALTL4RR Oct-11
+113 Sensory LT L5 Right at  Admit Rehab ALTL5RR Oct-11
+113 Sensory LT S1 Right at  Admit Rehab ALTS1RR Oct-11
+113 Sensory LT S2 Right at  Admit Rehab ALTS2RR Oct-11
+113 Sensory LT S3 Right at  Admit Rehab ALTS3RR Oct-11
+113 Sensory LT S4-5 Right at  Admit Rehab ALTS45RR Oct-11
+113 Sensory LT Right at Admit Rehab Subtotal ALTSubRR Oct-11
+113 Sensory LT C2 Left at Admit Rehab ALTC2LR Oct-11
+113 Sensory LT C3 Left at Admit Rehab ALTC3LR Oct-11
+113 Sensory LT C4 Left at Admit Rehab ALTC4LR Oct-11
+113 Sensory LT C5 Left at Admit Rehab ALTC5LR Oct-11
+113 Sensory LT C6 Left at Admit Rehab ALTC6LR Oct-11
+113 Sensory LT C7 Left at  Admit Rehab ALTC7LR Oct-11
+113 Sensory LT C8 Left at Admit Rehab ALTC8LR Oct-11
+113 Sensory LT T1 Left at Admit Rehab ALTT1LR Oct-11
+113 Sensory LT T2 Left at Admit Rehab ALTT2LR Oct-11
+113 Sensory LT T3 Left at  Admit Rehab ALTT3LR Oct-11
+113 Sensory LT T4 Left at  Admit Rehab ALTT4LR Oct-11
+113 Sensory LT T5 Left at  Admit Rehab ALTT5LR Oct-11
+113 Sensory LT T6 Left at Admit Rehab ALTT6LR Oct-11
+113 Sensory LT T7 Left at  Admit Rehab ALTT7LR Oct-11
+113 Sensory LT T8 Left at Admit Rehab ALTT8LR Oct-11
+113 Sensory LT T9 Left at Admit Rehab ALTT9LR Oct-11
+113 Sensory LT T10 Left at  Admit Rehab ALTT10LR Oct-11
+113 Sensory LT T11 Left at Admit Rehab ALTT11LR Oct-11
+113 Sensory LT T12 Left at Admit Rehab ALTT12LR Oct-11
+113 Sensory LT L1 Left at Admit Rehab ALTL1LR Oct-11
+113 Sensory LT L2 Left at  Admit Rehab ALTL2LR Oct-11
+113 Sensory LT L3 Left at Admit Rehab ALTL3LR Oct-11
+113 Sensory LT L4 Left at Admit Rehab ALTL4LR Oct-11
+113 Sensory LT L5 Left at Admit Rehab ALTL5LR Oct-11
+113 Sensory LT S1 Left at Admit Rehab ALTS1LR Oct-11
+113 Sensory LT S2 Left at Admit Rehab ALTS2LR Oct-11
+113 Sensory LT S3 Left at Admit Rehab ALTS3LR Oct-11
+Page 10\n\n--- PAGE 11 ---\n113 Sensory LT S4-5 Left at Admit Rehab ALTS45LR Oct-11
+113 Sensory LT Left at Admit Rehab Subtotal ALTSubLR Oct-11
+113 Sensory LT Admit Rehab Total ALTTotRh Oct-11
+113 Sensory PP C2 Right at Admit Rehab APPC2RR Oct-11
+113 Sensory PP C3 Right at Admit Rehab APPC3RR Oct-11
+113 Sensory PP C4 Right at Admit Rehab APPC4RR Oct-11
+113 Sensory PP C5 Right at Admit Rehab APPC5RR Oct-11
+113 Sensory PP C6 Right at Admit Rehab APPC6RR Oct-11
+113 Sensory PP C7 Right at Admit Rehab APPC7RR Oct-11
+113 Sensory PP C8 Right at Admit Rehab APPC8RR Oct-11
+113 Sensory PP T1 Right at Admit Rehab APPT1RR Oct-11
+113 Sensory PP T2 Right at Admit Rehab APPT2RR Oct-11
+113 Sensory PP T3 Right at Admit Rehab APPT3RR Oct-11
+113 Sensory PP T4 Right at Admit Rehab APPT4RR Oct-11
+113 Sensory PP T5 Right at Admit Rehab APPT5RR Oct-11
+113 Sensory PP T6 Right at Admit Rehab APPT6RR Oct-11
+113 Sensory PP T7 Right at Admit Rehab APPT7RR Oct-11
+113 Sensory PP T8 Right at Admit Rehab APPT8RR Oct-11
+113 Sensory PP T9 Right at Admit Rehab APPT9RR Oct-11
+113 Sensory PP T10 Right at Admit Rehab APPT10RR Oct-11
+113 Sensory PP T11 Right at Admit Rehab APPT11RR Oct-11
+113 Sensory PP T12 Right at Admit Rehab APPT12RR Oct-11
+113 Sensory PP L1 Right at Admit Rehab APPL1RR Oct-11
+113 Sensory PP L2 Right at Admit Rehab APPL2RR Oct-11
+113 Sensory PP L3 Right at Admit Rehab APPL3RR Oct-11
+113 Sensory PP L4 Right at Admit Rehab APPL4RR Oct-11
+113 Sensory PP L5 Right at Admit Rehab APPL5RR Oct-11
+113 Sensory PP S1 Right at Admit Rehab APPS1RR Oct-11
+113 Sensory PP S2 Right at Admit Rehab APPS2RR Oct-11
+113 Sensory PP S3 Right at Admit Rehab APPS3RR Oct-11
+113 Sensory PP S4-5 Right at Admit Rehab APPS45RR Oct-11
+113 Sensory PP Right at Admit Rehab Subtotal APPSubRR Oct-11
+113 Sensory PP C2 Left at Admit Rehab APPC2LR Oct-11
+113 Sensory PP C3 Left at Admit Rehab APPC3LR Oct-11
+113 Sensory PP C4 Left at Admit Rehab APPC4LR Oct-11
+113 Sensory PP C5 Left at Admit Rehab APPC5LR Oct-11
+113 Sensory PP C6 Left at Admit Rehab APPC6LR Oct-11
+113 Sensory PP C7 Left at  Admit Rehab APPC7LR Oct-11
+113 Sensory PP C8 Left at Admit Rehab APPC8LR Oct-11
+113 Sensory PP T1 Left at Admit Rehab APPT1LR Oct-11
+113 Sensory PP T2 Left at Admit Rehab APPT2LR Oct-11
+113 Sensory PP T3 Left at  Admit Rehab APPT3LR Oct-11
+113 Sensory PP T4 Left at  Admit Rehab APPT4LR Oct-11
+113 Sensory PP T5 Left at Admit Rehab APPT5LR Oct-11
+113 Sensory PP T6 Left at Admit Rehab APPT6LR Oct-11
+113 Sensory PP T7 Left at Admit Rehab APPT7LR Oct-11
+113 Sensory PP T8 Left at Admit Rehab APPT8LR Oct-11
+113 Sensory PP T9 Left at Admit Rehab APPT9LR Oct-11
+113 Sensory PP T10 Left at Admit Rehab APPT10LR Oct-11
+Page 11\n\n--- PAGE 12 ---\n113 Sensory PP T11 Left at Admit Rehab APPT11LR Oct-11
+113 Sensory PP T12 Left at Admit Rehab APPT12LR Oct-11
+113 Sensory PP L1 Left at Admit Rehab APPL1LR Oct-11
+113 Sensory PP L2 Left at Admit Rehab APPL2LR Oct-11
+113 Sensory PP L3 Left at Admit Rehab APPL3LR Oct-11
+113 Sensory PP L4 Left at Admit Rehab APPL4LR Oct-11
+113 Sensory PP L5 Left at Admit Rehab APPL5LR Oct-11
+113 Sensory PP S1 Left at Admit Rehab APPS1LR Oct-11
+113 Sensory PP S2 Left at Admit Rehab APPS2LR Oct-11
+113 Sensory PP S3 Left at Admit Rehab APPS3LR Oct-11
+113 Sensory PP S4-5 Left at Admit Rehab APPS45LR Oct-11
+113 Sensory PP Left at Admit Rehab Subtotal APPSubLR Oct-11
+113 Sensory PP Admit Rehab Total APPTotRh Oct-11
+114 Sensory Level at Admit to System Inpatient Rehab, Right ASLRhbRt Nov-00
+114 Sensory Level at Admit to System Inpatient Rehab, Left ASLRhbLf Nov-00
+115 Motor Level at Admit to System Inpatient Rehab, Right AMLRhbRt Nov-00
+115 Motor Level at Admit to System Inpatient Rehab, Left AMLRhbLf Nov-00
+116 Level Preserved Neuro Function at Admit to Rehab, Right APNFRhbR Nov-00
+116 Level Preserved Neuro Function at Admit to Rehab, Left APNFRhbL Nov-00
+117 Neurologic Level of Injury at Admit to Rehab ANurLvlR Nov-00
+118 Voluntary Anal Contraction at Inpatient Rehab Admit AVoSphRb Oct-06
+119 Deep Anal Pressure at Inpatient Rehab Admit AAnSnRhb Oct-06
+120 ASIA Impairment Scale at Admit to System Inpatient Rehab AASAImRb Nov-00
+121 Category of Neurologic Impairment at Admit to Rehab ANCatRhb Nov-00
+112 ASIA Motor Index Score, C5, Discharge, Right AASAC5DR Aug-93
+112 ASIA Motor Index Score, C6, Discharge, Right AASAC6DR Aug-93
+112 ASIA Motor Index Score, C7, Discharge, Right AASAC7DR Aug-93
+112 ASIA Motor Index Score, C8, Discharge, Right AASAC8DR Aug-93
+112 ASIA Motor Index Score, T1, Discharge, Right AASAT1DR Aug-93
+112 ASIA Motor Index Score, L2, Discharge, Right AASAL2DR Aug-93
+112 ASIA Motor Index Score, L3, Discharge, Right AASAL3DR Aug-93
+112 ASIA Motor Index Score, L4, Discharge, Right AASAL4DR Aug-93
+112 ASIA Motor Index Score, L5, Discharge, Right AASAL5DR Aug-93
+112 ASIA Motor Index Score, S1, Discharge, Right AASAS1DR Aug-93
+112 ASIA Motor Index Score Discharge Subtotal Right AASAStDR Aug-93
+112 ASIA Motor Index Score, C5, Discharge, Left AASAC5DL Aug-93
+112 ASIA Motor Index Score, C6, Discharge, Left AASAC6DL Aug-93
+112 ASIA Motor Index Score, C7, Discharge, Left AASAC7DL Aug-93
+112 ASIA Motor Index Score, C8, Discharge, Left AASAC8DL Aug-93
+112 ASIA Motor Index Score, T1, Discharge, Left AASAT1DL Aug-93
+112 ASIA Motor Index Score, L2, Discharge, Left AASAL2DL Aug-93
+112 ASIA Motor Index Score, L3, Discharge, Left AASAL3DL Aug-93
+112 ASIA Motor Index Score, L4, Discharge, Left AASAL4DL Aug-93
+112 ASIA Motor Index Score, L5, Discharge, Left AASAL5DL Aug-93
+112 ASIA Motor Index Score, S1, Discharge, Left AASAS1DL Aug-93
+112 ASIA Motor Index Score Discharge Subtotal Left AASAStDL Oct-86
+112 ASIA Motor Index Score Discharge Total AASATotD Oct-86
+113 Sensory LT C2 Right at Discharge ALTC2RD Oct-11
+113 Sensory LT C3 Right at Discharge ALTC3RD Oct-11
+Page 12\n\n--- PAGE 13 ---\n113 Sensory LT C4 Right at Discharge ALTC4RD Oct-11
+113 Sensory LT C5 Right at Discharge ALTC5RD Oct-11
+113 Sensory LT C6 Right at Discharge ALTC6RD Oct-11
+113 Sensory LT C7 Right at Discharge ALTC7RD Oct-11
+113 Sensory LT C8 Right at Discharge ALTC8RD Oct-11
+113 Sensory LT T1 Right at Discharge ALTT1RD Oct-11
+113 Sensory LT T2 Right at Discharge ALTT2RD Oct-11
+113 Sensory LT T3 Right at Discharge ALTT3RD Oct-11
+113 Sensory LT T4 Right at Discharge ALTT4RD Oct-11
+113 Sensory LT T5 Right at Discharge ALTT5RD Oct-11
+113 Sensory LT T6 Right at Discharge ALTT6RD Oct-11
+113 Sensory LT T7 Right at Discharge ALTT7RD Oct-11
+113 Sensory LT T8 Right at Discharge ALTT8RD Oct-11
+113 Sensory LT T9 Right at Discharge ALTT9RD Oct-11
+113 Sensory LT T10 Right at Discharge ALTT10RD Oct-11
+113 Sensory LT T11 Right at Discharge ALTT11RD Oct-11
+113 Sensory LT T12 Right at Discharge ALTT12RD Oct-11
+113 Sensory LT L1 Right at Discharge ALTL1RD Oct-11
+113 Sensory LT L2 Right at Discharge ALTL2RD Oct-11
+113 Sensory LT L3 Right at Discharge ALTL3RD Oct-11
+113 Sensory LT L4 Right at Discharge ALTL4RD Oct-11
+113 Sensory LT L5 Right at Discharge ALTL5RD Oct-11
+113 Sensory LT S1 Right at Discharge ALTS1RD Oct-11
+113 Sensory LT S2 Right at Discharge ALTS2RD Oct-11
+113 Sensory LT S3 Right at Discharge ALTS3RD Oct-11
+113 Sensory LT S4-5 Right at Discharge ALTS45RD Oct-11
+113 Sensory LT Right at Discharge Subtotal ALTSubRD Oct-11
+113 Sensory LT C2 Left at Discharge ALTC2LD Oct-11
+113 Sensory LT C3 Left at Discharge ALTC3LD Oct-11
+113 Sensory LT C4 Left at Discharge ALTC4LD Oct-11
+113 Sensory LT C5 Left at Discharge ALTC5LD Oct-11
+113 Sensory LT C6 Left at Discharge ALTC6LD Oct-11
+113 Sensory LT C7 Left at Discharge ALTC7LD Oct-11
+113 Sensory LT C8 Left at Discharge ALTC8LD Oct-11
+113 Sensory LT T1 Left at Discharge ALTT1LD Oct-11
+113 Sensory LT T2 Left at Discharge ALTT2LD Oct-11
+113 Sensory LT T3 Left at Discharge ALTT3LD Oct-11
+113 Sensory LT T4 Left at Discharge ALTT4LD Oct-11
+113 Sensory LT T5 Left at Discharge ALTT5LD Oct-11
+113 Sensory LT T6 Left at Discharge ALTT6LD Oct-11
+113 Sensory LT T7 Left at Discharge ALTT7LD Oct-11
+113 Sensory LT T8 Left at Discharge ALTT8LD Oct-11
+113 Sensory LT T9 Left at Discharge ALTT9LD Oct-11
+113 Sensory LT T10 Left at Discharge ALTT10LD Oct-11
+113 Sensory LT T11 Left at Discharge ALTT11LD Oct-11
+113 Sensory LT T12 Left at Discharge ALTT12LD Oct-11
+113 Sensory LT L1 Left at Discharge ALTL1LD Oct-11
+113 Sensory LT L2 Left at Discharge ALTL2LD Oct-11
+113 Sensory LT L3 Left at Discharge ALTL3LD Oct-11
+Page 13\n\n--- PAGE 14 ---\n113 Sensory LT L4 Left at Discharge ALTL4LD Oct-11
+113 Sensory LT L5 Left at Discharge ALTL5LD Oct-11
+113 Sensory LT S1 Left at Discharge ALTS1LD Oct-11
+113 Sensory LT S2 Left at Discharge ALTS2LD Oct-11
+113 Sensory LT S3 Left at Discharge ALTS3LD Oct-11
+113 Sensory LT S4-5 Left at Discharge ALTS45LD Oct-11
+113 Sensory LT Left at Discharge Subtotal ALTSubLD Oct-11
+113 Sensory LT Discharge Total ALTTotDs Oct-11
+113 Sensory PP C2 Right at Discharge APPC2RD Oct-11
+113 Sensory PP C3 Right at Discharge APPC3RD Oct-11
+113 Sensory PP C4 Right at Discharge APPC4RD Oct-11
+113 Sensory PP C5 Right at Discharge APPC5RD Oct-11
+113 Sensory PP C6 Right at Discharge APPC6RD Oct-11
+113 Sensory PP C7 Right at Discharge APPC7RD Oct-11
+113 Sensory PP C8 Right at Discharge APPC8RD Oct-11
+113 Sensory PP T1 Right at Discharge APPT1RD Oct-11
+113 Sensory PP T2 Right at Discharge APPT2RD Oct-11
+113 Sensory PP T3 Right at Discharge APPT3RD Oct-11
+113 Sensory PP T4 Right at Discharge APPT4RD Oct-11
+113 Sensory PP T5 Right at Discharge APPT5RD Oct-11
+113 Sensory PP T6 Right at Discharge APPT6RD Oct-11
+113 Sensory PP T7 Right at Discharge APPT7RD Oct-11
+113 Sensory PP T8 Right at Discharge APPT8RD Oct-11
+113 Sensory PP T9 Right at Discharge APPT9RD Oct-11
+113 Sensory PP T10 Right at Discharge APPT10RD Oct-11
+113 Sensory PP T11 Right at Discharge APPT11RD Oct-11
+113 Sensory PP T12 Right at Discharge APPT12RD Oct-11
+113 Sensory PP L1 Right at Discharge APPL1RD Oct-11
+113 Sensory PP L2 Right at Discharge APPL2RD Oct-11
+113 Sensory PP L3 Right at Discharge APPL3RD Oct-11
+113 Sensory PP L4 Right at Discharge APPL4RD Oct-11
+113 Sensory PP L5 Right at Discharge APPL5RD Oct-11
+113 Sensory PP S1 Right at Discharge APPS1RD Oct-11
+113 Sensory PP S2 Right at Discharge APPS2RD Oct-11
+113 Sensory PP S3 Right at Discharge APPS3RD Oct-11
+113 Sensory PP S4-5 Right at Discharge APPS45RD Oct-11
+113 Sensory PP Right at Discharge Subtotal APPSubRD Oct-11
+113 Sensory PP C2 Left at Discharge APPC2LD Oct-11
+113 Sensory PP C3 Left at Discharge APPC3LD Oct-11
+113 Sensory PP C4 Left at Discharge APPC4LD Oct-11
+113 Sensory PP C5 Left at Discharge APPC5LD Oct-11
+113 Sensory PP C6 Left at Discharge APPC6LD Oct-11
+113 Sensory PP C7 Left at Discharge APPC7LD Oct-11
+113 Sensory PP C8 Left at Discharge APPC8LD Oct-11
+113 Sensory PP T1 Left at Discharge APPT1LD Oct-11
+113 Sensory PP T2 Left at Discharge APPT2LD Oct-11
+113 Sensory PP T3 Left at Discharge APPT3LD Oct-11
+113 Sensory PP T4 Left at Discharge APPT4LD Oct-11
+113 Sensory PP T5 Left at Discharge APPT5LD Oct-11
+Page 14\n\n--- PAGE 15 ---\n113 Sensory PP T6 Left at Discharge APPT6LD Oct-11
+113 Sensory PP T7 Left at Discharge APPT7LD Oct-11
+113 Sensory PP T8 Left at Discharge APPT8LD Oct-11
+113 Sensory PP T9 Left at Discharge APPT9LD Oct-11
+113 Sensory PP T10 Left at Discharge APPT10LD Oct-11
+113 Sensory PP T11 Left at Discharge APPT11LD Oct-11
+113 Sensory PP T12 Left at Discharge APPT12LD Oct-11
+113 Sensory PP L1 Left at Discharge APPL1LD Oct-11
+113 Sensory PP L2 Left at Discharge APPL2LD Oct-11
+113 Sensory PP L3 Left at Discharge APPL3LD Oct-11
+113 Sensory PP L4 Left at Discharge APPL4LD Oct-11
+113 Sensory PP L5 Left at Discharge APPL5LD Oct-11
+113 Sensory PP S1 Left at Discharge APPS1LD Oct-11
+113 Sensory PP S2 Left at Discharge APPS2LD Oct-11
+113 Sensory PP S3 Left at Discharge APPS3LD Oct-11
+113 Sensory PP S4-5 Left at Discharge APPS45LD Oct-11
+113 Sensory PP Left at Discharge Subtotal APPSubLD Oct-11
+113 Sensory PP Discharge Total APPTotDs Oct-11
+114 Sensory Level at Discharge, Right ASLDisRt Aug-93
+114 Sensory Level at Discharge, Left ASLDisLf Aug-93
+115 Motor Level at Discharge, Right AMLDisRt Aug-93
+115 Motor Level at Discharge, Left AMLDisLf Aug-93
+116 Level of Preserved Neurologic Function at Discharge, Right APNFDisR 1973
+116 Level of Preserved Neurologic Function at Discharge, Left APNFDisL 1973
+117 Neurologic Level of Injury at Discharge ANurLvlD 1973
+118 Voluntary Anal Contraction at Discharge AVoSphDs Oct-06
+119 Deep Anal Pressure at Discharge AAnSnDis Oct-06
+120 ASIA Impairment Scale at Discharge AASAImDs 1973
+121 Category of Neurologic Impairment at Discharge ANCatDis 1973
+121 Category of Neurologic Impairment at Discharge ANCatDis 1973
+Page 15\n\n--- PAGE 16 ---\nForm  Form II - Variable Name Var Alias Data Since
+Unique ID UniID  
+1 Post-injury Year BYear 1973
+2 Category of Follow-up Care on the Anniversary BFolUpCt 1973
+3 Reason for Lost BLostRsn Jan-98
+4 Date of Interview Modifier BIntvDtM Oct-00
+5 Date of Interview (Note: date is converted into year) BIntvDt Oct-00
+6 How was the interview conducted? BIntCond Feb-96
+7 Annual Exam Date Modifier BAnExDtM Oct-86
+8 Date of the Annual Examination (Note: date is converted BAnExDt Oct-86
+9 Weight at Annual Examination BWeight Oct-06
+10 Place of Residence BPlcRes 1973
+14 Marital Status on the Anniversary BMarStat 1973
+15 Change in marital status since last known value BMarStCh Oct-00
+16 Highest Formal Educational Level Completed BEducLvl 1973
+17 Use a Computer? BCompUse Apr-04
+18 Computer Assistance from another BCmpAsst Oct-11
+19 Computer Assistive Device Position 1 BCmpDev1 Oct-11
+19 Computer Assistive Device Position 2 BCmpDev2 Oct-11
+19 Computer Assistive Device Position 3 BCmpDev3 Oct-11
+19 Computer Assistive Device Position 4 BCmpDev4 Oct-11
+19 Computer Assistive Device Position 5 BCmpDev5 Oct-11
+20 Internet or Email Usage, how often BInetEml Apr-04
+21 Internet/Mobile Devices to access internet/email BIntMbDv Oct-11
+22 Cell Phone BCellPhn Apr-04
+23 SCI QoL Res: I had a positive attitude. BRsPosAt Oct-16
+24 SCI QoL Res: I felt good about how I have coped with my BRsGdCp Oct-16
+25 SCI QoL Res: I used positive ways to cope with my injury BRsPosCp Oct-16
+26 SCI QoL Res: I felt I can get through difficult times BRsDifTm Oct-16
+27 SCI QoL Res: I tried to see the positive side of things BRsPosSd Oct-16
+28 SCI QoL Res: I was confident that I could overcome my BRsOvrLm Oct-16
+29 SCI QoL Res: I took action to improve my life BRsAct Oct-16
+30 SCI QoL Res: I found new things to enjoy BRsNewTh Oct-16
+31 SCI QoL Res Short Form T Score BRsTScr Oct-16
+32 SCI QoL Res Short Form Standard Error BRsStEr Oct-16
+33 SWL-1 life is close to ideal BLifSat1 Nov-95
+34 SWL-2 conditions in life are excellent BLifSat2 Nov-95
+35 SWL-3 satisfied with life BLifSat3 Nov-95
+36 SWL-4 gotten the important things in life BLifSat4 Nov-95
+37 SWL-5 change almost nothing BLifSat5 Nov-95
+38 Satisfaction With Life Scale - Total Score BLifSatT Nov-95
+39 PHQ-1. little interest or pleasure BBPHQ1 Oct-00
+40 PHQ-2. feeling down, depressed, or hopeless BBPHQ2 Oct-00
+41 PHQ-3. trouble falling or staying asleep, or sleeping too 
+much? BBPHQ3 2000-2011, Oct-16
+42 PHQ-4. feeling tired or having little energy? BBPHQ4 2000-2011, Oct-16
+43 PHQ-5.  poor appetite or overeating? BBPHQ5 2000-2011, Oct-16
+Page 16\n\n--- PAGE 17 ---\n44 PHQ-6. feeling bad about yourself – or that you are a 
+failure or have let yourself or your family down? BBPHQ6 2000-2011, Oct-16
+45 PHQ-7. trouble concentrating on things ...? BBPHQ7 2000-2011, Oct-16
+46 PHQ-8. moving or speaking so slowly ... Or the opposite  
+...? BBPHQ8 2000-2011, Oct-16
+47 PHQ-9. thoughts t...better off dead or of hurting yourself ? BBPHQ9 2000-2011, Oct-16
+48 PHQ-Major Depressive Syndrome BBPHQMDS 2000-2011, Oct-16
+49 PHQ-Severity of Depression Score BBPHQSDS 2000-2011, Oct-16
+50 Height BHeight Oct-06
+51 Source for News/Information (1) BPrSrIn1 Oct-06
+51 Source for News/Information (2) BPrSrIn2 Oct-06
+51 Source for News/Information (3) BPrSrIn3 Oct-06
+51 Source for News/Information (4) BPrSrIn4 Oct-06
+51 Source for News/Information (5) BPrSrIn5 Oct-06
+52 Self-perceived Health Status BSPHthSt Nov-95
+53 Compared to 1 year ago, rate your health now BSPHthRC May-98
+54 Sleep difficulties, last year BSleep Oct-16
+55 Falls, in last year BFalls Oct-16
+56 UTI with antibiotic, last 12 months BUTI Oct-11
+57 Skin Problems, last 12 months (Pressure Ulcer) BPrUlcer Oct-11
+58 Pain Usual level last 4 weeks BPainSev Oct-00
+59 Pain Interference last 4 weeks BPainWrk May-98
+60 How many times pregnant Bpregnan Oct-16
+61 How many live births BLivBrth Oct-16
+62 Utilization of Mechanical Ventilation-First Anniv BUtMchVt 1973
+63 Diabetes, Current BDiabete Oct-11
+64 Hypertension, Current BHyptnCu Oct-16
+65 Hyperlipidemia, Current BHyplpCu Oct-16
+66 Arthritis, Current BArthrCu Oct-16
+67 Method of Bladder Management BBldMgMd 1973
+68 Bladder Mgt Change, since last known BChBldMg Oct-11
+69 FIM Bladder Level of Assistance BBldAsst Oct-16 to Sep-18
+70 FIM Bladder Accidents (7 days) BBldAcc7 Oct-16 to Sep-18
+71 Bladder Incontinence  - Intl Dataset BBldAcIn Oct-16
+72 Bowel Method - Intl Dataset BBwlMeth Oct-16
+73 Bowel Frequency Empty- Intl Dataset BBwlFreq Oct-16
+74 Bowel Time to defecate  - Intl Dataset BBwlTime Oct-16
+75 FIM Bowel Level of Assistance BBwlAsst Oct-16 to Sep-18
+76 FIM Bowel Level Accidents (7 days) BBwlAcc7 Oct-16 to Sep-18
+77 Bowel Incontinence  - Intl Dataset BBwlAcIn Oct-16
+78 Number of Days Rehospitalized, Rehosp. #1 BRhspDa1 Oct-00
+78 Reason for Rehospitalization, Rehosp. #1 BRhspRs1 Oct-00
+78 Number of Days Rehospitalized, Rehosp. #2 BRhspDa2 Oct-00
+78 Reason for Rehospitalization, Rehosp. #2 BRhspRs2 Oct-00
+78 Number of Days Rehospitalized, Rehosp. #3 BRhspDa3 Oct-00
+78 Reason for Rehospitalization, Rehosp. #3 BRhspRs3 Oct-00
+78 Number of Days Rehospitalized, Rehosp. #4 BRhspDa4 Oct-00
+Page 17\n\n--- PAGE 18 ---\n78 Reason for Rehospitalization, Rehosp. #4 BRhspRs4 Oct-00
+78 Number of Days Rehospitalized, Rehosp. #5 BRhspDa5 Oct-00
+78 Reason for Rehospitalization, Rehosp. #5 BRhspRs5 Oct-00
+78 Number of Days Rehospitalized, Rehosp. #6 BRhspDa6 Oct-00
+78 Reason for Rehospitalization, Rehosp. #6 BRhspRs6 Oct-00
+78 Number of Days Rehospitalized, Rehosp. #7 BRhspDa7 Oct-00
+78 Reason for Rehospitalization, Rehosp. #7 BRhspRs7 Oct-00
+78 Number of Days Rehospitalized, Rehosp. #8+ BRhspDa8 Oct-00
+78 Reason for Rehospitalization, Rehosp. #8+ BRhspRs8 Oct-00
+79 Number of Rehospitalizations During last 12 months BRhspNbr 1973
+80 Number of Days Rehospitalized During last 12 months BRhspDaT 1973
+81 Primary Payer – Health Insurance BPrimPay 1973-2006, Oct-11
+82 VA healthcare services since last known BVASSUs1 Oct-00
+83 Primary Occupational, Educational or Training Status BPrLvlSt 1973
+84 Job Census Code BJobCnCd Oct-00
+85 How many weeks worked a year BWksEmp Oct-16
+86 Family Income Level BFmIncLv 1995-2006, Oct-11
+87 Alcohol: AUDIT-C 'how often have you had a drink in past 
+year' BAlcRate Oct-11
+88 Alcohol: AUDIT-C 'how many on a typical day’ BAlcNbDr Oct-11
+89 Alcohol: AUDIT-C 'how often 6 + drinks ' BAlc6Mor Oct-11
+90 Substance Abuse: WHO Assist 2 (Tobacco) BSATob Oct-16
+91 Substance Abuse: WHO Assist 2 (Cannabis) BSACann Oct-16
+92 Substance Abuse: WHO Assist 2 (Cocaine) BSACoc Oct-16
+93 Substance Abuse: WHO Assist 2 (Amphetamine-type) BSAAmph Oct-16
+94 Substance Abuse: WHO Assist 2 (Inhalants) BSAInhl Oct-16
+95 Substance Abuse: WHO Assist 2 (Sedatives/Sleeping) BSASed Oct-16
+96 Substance Abuse: WHO Assist 2 (Hallucinogens) BSAHall Oct-16
+97 Substance Abuse: WHO Assist 2 (Opiods) BSAOpd Oct-16
+98 Substance Abuse: WHO Assist 2 (Other) BSAOthr Oct-16
+99 CHART- Number of Hours of Paid Assist/Day BCHHrsPd Nov-95
+100 CHART - Number of Hours Unpaid Assist/Day BCHHrUpd Nov-95
+101 CHART - Number of Hours Out of Bed/Day BCHHrBed Nov-95
+102 CHART - Number of Days Out of the House/Week BCHDaHse Nov-95
+103 CHART - Number of Nights Away from Home In the Past Yr BCHNtsHm Nov-95
+104 CHART - Number of Hours/Week at Paid Job BCHHrJob Nov-95
+105 CHART - Number of Hours/Week at School/Study BCHHrSch Nov-95
+106 CHART - Number of Hours/Week at Homemaking BCHHrHmk Nov-95
+107 CHART - Number of Hours/Week at Home Maintenance BCHHrHMt Nov-95
+108 CHART - Number of Hours/Week at Recreation BCHHrRec Nov-95
+109 CHART – live with a spouse or significant other BCHSpsOt Nov-95
+Page 18\n\n--- PAGE 19 ---\n110 CHART – Of the people you live with how many are 
+relatives BCHReltv Nov-95
+111 CHART - Number of Business/Organizational 
+Contacts/Month BCHConBs Nov-95
+112 CHART - Number of Contacts/Month With Friends BCHConFr Nov-95
+113 CHART - Strangers You Initiated a Conversation 
+With/Month BCHStrCv Nov-95
+114 CHART - Physical Independence Total BCHPITot Nov-95
+115 CHART - Mobility Total BCHMbTot Nov-95
+116 CHART - Occupation Total BCHOpTot Nov-95
+117 CHART - Social Integration BCHSocIn Nov-95
+118 Wheelchair or Scooter Use BWCSUse Apr-04
+119 Type of  Wheelchair/Scooter Used Most Often BWCSType Apr-04
+120 Walk for 150 feet in your home BWlk150 Apr-04
+121 Walk for one street block outside BWlkBlck Apr-04
+122 Walk up one flight of steps BWlkStps Apr-04
+123 Mobility Aid(s) (1) BMobAid1 Apr-04
+123 Mobility Aid(s) (2) BMobAid2 Apr-04
+123 Mobility Aid(s) (3) BMobAid3 Apr-04
+123 Mobility Aid(s) (4) BMobAid4 Apr-04
+123 Mobility Aid(s) (5) BMobAid5 Apr-04
+124 Mode of Transportation BMdTrnsp Oct-16
+125 Modified Vehicle, Type BModVhcl Apr-04
+126 Modified Vehicle, Driving BDrvModV Apr-04
+127 SCI-FI AT Interview Method Modifier BSFIntM Oct-16
+128 SCI-FI Paraplegia or tetraplegia BSFPaTe Oct-16
+129 SCI-FI Walk at least some of the time BSFAmb Oct-16
+130 SCI-FI Do you use a manual and/or power wheelchair BSFMPWhl Oct-16
+131 SCI-FI Basic Mobility Raw Score BSFBMRS Oct-16
+131 SCI-FI Basic Mobility T Score BSFBMTS Oct-16
+131 SCI-FI Basic Mobility Error BSFBMEr Oct-16
+132 SCI-FI Self-Care Raw Score BSFSCRS Oct-16
+132 SCI-FI Self-Care T Score BSFSCTS Oct-16
+132 SCI-FI Self-Care Error BSFSCEr Oct-16
+133 SCI-FI Fine Motor Raw Score BSFFMoRS Oct-16
+133 SCI-FI Fine Motor T Score BSFFMoTS Oct-16
+133 SCI-FI Fine Motor Error BSFFMoEr Oct-16
+134 SCI-FI Ambulation Raw Score BSFAmbRS Oct-16
+134 SCI-FI Ambulation T Score BSFAmbTS Oct-16
+134 SCI-FI Ambulation Error BSFAmbEr Oct-16
+135 SCI-FI Manual Wheelchair Mobility Raw Score BSFMWhRS Oct-16
+135 SCI-FI Manual Wheelchair Mobility T Score BSFMWhTS Oct-16
+135 SCI-FI Manual Wheelchair Mobility Error BSFMWhEr Oct-16
+136 SCI-FI Power Wheelchair Mobility Raw Score BSFPWhRS Oct-16
+Page 19\n\n--- PAGE 20 ---\n136 SCI-FI Power Wheelchair Mobility T Score BSFPWhTS Oct-16
+136 SCI-FI Power Wheelchair Mobility Error BSFPWhEr Oct-16
+150 ASIA Motor Index Score, C5,  Right BASAC5Rt Aug-93
+150 ASIA Motor Index Score, C6,  Right BASAC6Rt Aug-93
+150 ASIA Motor Index Score, C7,  Right BASAC7Rt Aug-93
+150 ASIA Motor Index Score, C8,  Right BASAC8Rt Aug-93
+150 ASIA Motor Index Score, T1,  Right BASAT1Rt Aug-93
+150 ASIA Motor Index Score, L2,  Right BASAL2Rt Aug-93
+150 ASIA Motor Index Score, L3,  Right BASAL3Rt Aug-93
+150 ASIA Motor Index Score, L4,  Right BASAL4Rt Aug-93
+150 ASIA Motor Index Score, L5,  Right BASAL5Rt Aug-93
+150 ASIA Motor Index Score, S1,  Right BASAS1Rt Aug-93
+150 ASIA Motor Index Score, Subtotal Right BASAStRt Oct-86
+150 ASIA Motor Index Score ,C5, Left BASAC5Lf Aug-93
+150 ASIA Motor Index Score, C6,  Left BASAC6Lf Aug-93
+150 ASIA Motor Index Score, C7,  Left BASAC7Lf Aug-93
+150 ASIA Motor Index Score, C8,  Left BASAC8Lf Aug-93
+150 ASIA Motor Index Score, T1,  Left BASAT1Lf Aug-93
+150 ASIA Motor Index Score, L2,  Left BASAL2Lf Aug-93
+150 ASIA Motor Index Score, L3,  Left BASAL3Lf Aug-93
+150 ASIA Motor Index Score, L4,  Left BASAL4Lf Aug-93
+150 ASIA Motor Index Score, L5,  Left BASAL5Lf Aug-93
+150 ASIA Motor Index Score, S1,  Left BASAS1Lf Aug-93
+150 ASIA Motor Index Score, Subtotal Left BASAStLf Oct-86
+150 ASIA Motor Index Score Total BASATot Oct-86
+151 Sensory LT C2 Right at Annual Exam BLTC2Rt Oct-11
+151 Sensory LT C3 Right at Annual Exam BLTC3Rt Oct-11
+151 Sensory LT C4 Right at Annual Exam BLTC4Rt Oct-11
+151 Sensory LT C5 Right at Annual Exam BLTC5Rt Oct-11
+151 Sensory LT C6 Right at Annual Exam BLTC6Rt Oct-11
+151 Sensory LT C7 Right at Annual Exam BLTC7Rt Oct-11
+151 Sensory LT C8 Right at Annual Exam BLTC8Rt Oct-11
+151 Sensory LT T1 Right at Annual Exam BLTT1Rt Oct-11
+151 Sensory LT T2 Right at Annual Exam BLTT2Rt Oct-11
+151 Sensory LT T3 Right at Annual Exam BLTT3Rt Oct-11
+151 Sensory LT T4 Right at Annual Exam BLTT4Rt Oct-11
+151 Sensory LT T5 Right at Annual Exam BLTT5Rt Oct-11
+151 Sensory LT T6 Right at Annual Exam BLTT6Rt Oct-11
+151 Sensory LT T7 Right at Annual Exam BLTT7Rt Oct-11
+151 Sensory LT T8 Right at Annual Exam BLTT8Rt Oct-11
+151 Sensory LT T9 Right at Annual Exam BLTT9Rt Oct-11
+151 Sensory LT T10 Right at Annual Exam BLTT10Rt Oct-11
+151 Sensory LT T11 Right at Annual Exam BLTT11Rt Oct-11
+151 Sensory LT T12 Right at Annual Exam BLTT12Rt Oct-11
+Page 20\n\n--- PAGE 21 ---\n151 Sensory LT L1 Right at Annual Exam BLTL1Rt Oct-11
+151 Sensory LT L2 Right at Annual Exam BLTL2Rt Oct-11
+151 Sensory LT L3 Right at Annual Exam BLTL3Rt Oct-11
+151 Sensory LT L4 Right at Annual Exam BLTL4Rt Oct-11
+151 Sensory LT L5 Right at Annual Exam BLTL5Rt Oct-11
+151 Sensory LT S1 Right at Annual Exam BLTS1Rt Oct-11
+151 Sensory LT S2 Right at Annual Exam BLTS2Rt Oct-11
+151 Sensory LT S3 Right at Annual Exam BLTS3Rt Oct-11
+151 Sensory LT S4-5 Right at Annual Exam BLTS45Rt Oct-11
+151 Sensory LT Subtotal Right at Annual Exam BLTSubRt Oct-11
+151 Sensory LT C2 Left at Annual Exam BLTC2Lf Oct-11
+151 Sensory LT C3 Left at Annual Exam BLTC3Lf Oct-11
+151 Sensory LT C4 Left at Annual Exam BLTC4Lf Oct-11
+151 Sensory LT C5 Left at Annual Exam BLTC5Lf Oct-11
+151 Sensory LT C6 Left at Annual Exam BLTC6Lf Oct-11
+151 Sensory LT C7 Left at Annual Exam BLTC7Lf Oct-11
+151 Sensory LT C8 Left at Annual Exam BLTC8Lf Oct-11
+151 Sensory LT T1 Left at Annual Exam BLTT1Lf Oct-11
+151 Sensory LT T2 Left at Annual Exam BLTT2Lf Oct-11
+151 Sensory LT T3 Left at Annual Exam BLTT3Lf Oct-11
+151 Sensory LT T4 Left at Annual Exam BLTT4Lf Oct-11
+151 Sensory LT T5 Left at Annual Exam BLTT5Lf Oct-11
+151 Sensory LT T6 Left at Annual Exam BLTT6Lf Oct-11
+151 Sensory LT T7 Left at Annual Exam BLTT7Lf Oct-11
+151 Sensory LT T8 Left at Annual Exam BLTT8Lf Oct-11
+151 Sensory LT T9 Left at Annual Exam BLTT9Lf Oct-11
+151 Sensory LT T10 Left at Annual Exam BLTT10Lf Oct-11
+151 Sensory LT T11 Left at Annual Exam BLTT11Lf Oct-11
+151 Sensory LT T12 Left at Annual Exam BLTT12Lf Oct-11
+151 Sensory LT L1 Left at Annual Exam BLTL1Lf Oct-11
+151 Sensory LT L2 Left at Annual Exam BLTL2Lf Oct-11
+151 Sensory LT L3 Left at Annual Exam BLTL3Lf Oct-11
+151 Sensory LT L4 Left at Annual Exam BLTL4Lf Oct-11
+151 Sensory LT L5 Left at Annual Exam BLTL5Lf Oct-11
+151 Sensory LT S1 Left at Annual Exam BLTS1Lf Oct-11
+151 Sensory LT S2 Left at Annual Exam BLTS2Lf Oct-11
+151 Sensory LT S3 Left at Annual Exam BLTS3Lf Oct-11
+151 Sensory LT S4-5 Left at Annual Exam BLTS45Lf Oct-11
+151 Sensory LT Subtotal Left at Annual Exam BLTSubLf Oct-11
+151 Sensory LT Total at Annual Exam BLTTotal Oct-11
+151 Sensory PP C2 Right at Annual Exam BPPC2Rt Oct-11
+151 Sensory PP C3 Right at Annual Exam BPPC3Rt Oct-11
+151 Sensory PP C4 Right at Annual Exam BPPC4Rt Oct-11
+151 Sensory PP C5 Right at Annual Exam BPPC5Rt Oct-11
+Page 21\n\n--- PAGE 22 ---\n151 Sensory PP C6 Right at Annual Exam BPPC6Rt Oct-11
+151 Sensory PP C7 Right at Annual Exam BPPC7Rt Oct-11
+151 Sensory PP C8 Right at Annual Exam BPPC8Rt Oct-11
+151 Sensory PP T1 Right at Annual Exam BPPT1Rt Oct-11
+151 Sensory PP T2 Right at Annual Exam BPPT2Rt Oct-11
+151 Sensory PP T3 Right at Annual Exam BPPT3Rt Oct-11
+151 Sensory PP T4 Right at Annual Exam BPPT4Rt Oct-11
+151 Sensory PP T5 Right at Annual Exam BPPT5Rt Oct-11
+151 Sensory PP T6 Right at Annual Exam BPPT6Rt Oct-11
+151 Sensory PP T7 Right at Annual Exam BPPT7Rt Oct-11
+151 Sensory PP T8 Right at Annual Exam BPPT8Rt Oct-11
+151 Sensory PP T9 Right at Annual Exam BPPT9Rt Oct-11
+151 Sensory PP T10 Right at Annual Exam BPPT10Rt Oct-11
+151 Sensory PP T11 Right at Annual Exam BPPT11Rt Oct-11
+151 Sensory PP T12 Right at Annual Exam BPPT12Rt Oct-11
+151 Sensory PP L1 Right at Annual Exam BPPL1Rt Oct-11
+151 Sensory PP L2 Right at Annual Exam BPPL2Rt Oct-11
+151 Sensory PP L3 Right at Annual Exam BPPL3Rt Oct-11
+151 Sensory PP L4 Right at Annual Exam BPPL4Rt Oct-11
+151 Sensory PP L5 Right at Annual Exam BPPL5Rt Oct-11
+151 Sensory PP S1 Right at Annual Exam BPPS1Rt Oct-11
+151 Sensory PP S2 Right at Annual Exam BPPS2Rt Oct-11
+151 Sensory PP S3 Right at Annual Exam BPPS3Rt Oct-11
+151 Sensory PP S4-5 Right at Annual Exam BPPS45Rt Oct-11
+151 Sensory PP Subtotal Right at Annual Exam BPPSubRt Oct-11
+151 Sensory PP C2 Left at Annual Exam BPPC2Lf Oct-11
+151 Sensory PP C3 Left at Annual Exam BPPC3Lf Oct-11
+151 Sensory PP C4 Left at Annual Exam BPPC4Lf Oct-11
+151 Sensory PP C5 Left at Annual Exam BPPC5Lf Oct-11
+151 Sensory PP C6 Left at Annual Exam BPPC6Lf Oct-11
+151 Sensory PP C7 Left at Annual Exam BPPC7Lf Oct-11
+151 Sensory PP C8 Left at Annual Exam BPPC8Lf Oct-11
+151 Sensory PP T1 Left at Annual Exam BPPT1Lf Oct-11
+151 Sensory PP T2 Left at Annual Exam BPPT2Lf Oct-11
+151 Sensory PP T3 Left at Annual Exam BPPT3Lf Oct-11
+151 Sensory PP T4 Left at Annual Exam BPPT4Lf Oct-11
+151 Sensory PP T5 Left at Annual Exam BPPT5Lf Oct-11
+151 Sensory PP T6 Left at Annual Exam BPPT6Lf Oct-11
+151 Sensory PP T7 Left at Annual Exam BPPT7Lf Oct-11
+151 Sensory PP T8 Left at Annual Exam BPPT8Lf Oct-11
+151 Sensory PP T9 Left at Annual Exam BPPT9Lf Oct-11
+151 Sensory PP T10 Left at Annual Exam BPPT10Lf Oct-11
+151 Sensory PP T11 Left at Annual Exam BPPT11Lf Oct-11
+151 Sensory PP T12 Left at Annual Exam BPPT12Lf Oct-11
+Page 22\n\n--- PAGE 23 ---\n151 Sensory PP L1 Left at Annual Exam BPPL1Lf Oct-11
+151 Sensory PP L2 Left at Annual Exam BPPL2Lf Oct-11
+151 Sensory PP L3 Left at Annual Exam BPPL3Lf Oct-11
+151 Sensory PP L4 Left at Annual Exam BPPL4Lf Oct-11
+151 Sensory PP L5 Left at Annual Exam BPPL5Lf Oct-11
+151 Sensory PP S1 Left at Annual Exam BPPS1Lf Oct-11
+151 Sensory PP S2 Left at Annual Exam BPPS2Lf Oct-11
+151 Sensory PP S3 Left at Annual Exam BPPS3Lf Oct-11
+151 Sensory PP S4-5 Left at Annual Exam BPPS45Lf Oct-11
+151 Sensory PP Subtotal Left at Annual Exam BPPSubLf Oct-11
+151 Sensory PP Total at Annual Exam BPPTotal Oct-11
+152 Sensory Level at Annual Exam, Right BSnsLvRt Aug-93
+152 Sensory Level at the Annual Exam, Left BSnsLvLf Aug-93
+153 Motor Level at Annual Exam, Right BMotLvRt Aug-93
+153 Motor  Level at Annual Exam, Left BMotLvLf Aug-93
+154 Level of Preserved Neuro Function at Annual Exam, Right BPrNuFRt 1973
+154 Level of Preserved Neuro Function at Annual Exam, Left BPrNuFLf 1973
+155 Neurologic Level of Injury at Annual Exam BNurLvl 1973
+156 Voluntary Anal Contraction Annual Exam BVolSphn Oct-06
+157 Deep Anal Pressure Annual Exam BAnalSns Oct-06
+158 ASIA Impairment Scale at Annual Exam BASAImp 1973
+159 Category of Neurologic Impairment at Annual Exam BNImpCat 1973
+Page 23\n\n--- PAGE 24 ---\nForm # Record Status - Variable Name Var Alias Data Since
+Unique ID UniID
+1 Vital Status Source SVitSrce 1973
+2 Vital Status Form 2 Year Used SVitF2Yr 1973
+3 Vital Status Date (Note: date is converted into year) SVitDate 1973
+4 Date of Death Modifier SDthDtMd 1973
+5 Date of Death (Note: date is converted into year) SDthDt 1973
+6 Cause of Death (1 Primary) SCsDth1 1973
+6 Cause of Death (2) SCsDth2 1973
+6 Cause of Death (3) SCsDth3 1973
+6 Cause of Death (4) SCsDth4 1973
+6 Cause of Death (5) SCsDth5 1973
+7 Patient Current Status SStatCur 1973
+Page 24

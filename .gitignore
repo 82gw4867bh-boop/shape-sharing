@@ -1,0 +1,17 @@
+# Local source archive and generated analysis outputs
+/NSCISC_Public_Data_2021.zip
+/variable_screening/results_*/
+/variable_screening/_legacy_*/
+/variable_screening/_discarded_*/
+/m0/results_*/
+/m0/results_from_lasso_0p5/predicted_changes.csv
+/m0/temporal_validation_lasso_0p5_2001_2004/predictions.csv
+/m0/_legacy_*/
+/m0/_discarded_*/
+/m0/temporal_validation_*_legacy_median/
+/m0/historical_example2/
+
+# Python and test caches
+**/__pycache__/
+*.py[cod]
+.pytest_cache/

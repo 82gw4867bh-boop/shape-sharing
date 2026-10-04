@@ -1,0 +1,38 @@
+{
+  "analysis_status": "official_m0_baseline_external_time_validation",
+  "baseline_designation": "official_m0_reference_baseline_v2_selected_existing_draw",
+  "temporal_set_status": "patient_disjoint_injury_year_holdout",
+  "data_independence": "same public database; temporal cohort is not a separate database",
+  "cohort": "adult SCI, injury years 2001-2004",
+  "n_temporal_patients": 2610,
+  "nodes": [
+    1,
+    5,
+    10,
+    15
+  ],
+  "domains": [
+    "physical_independence",
+    "mobility",
+    "occupation",
+    "social_integration"
+  ],
+  "source_archive_sha256": "005a0545dc0be3db9d96d34a4ffd2805be29cf93395c3a4f79f060d5de59475f",
+  "upstream_manifest_sha256": "208beb8f50b65dd4cc0e17a72a6cac728ad1810295eb5fbbc53245afe8dd1c4b",
+  "m0_run_metadata_sha256": "7ab56638e405aa98ccbb2476569a4b0910e7b8ebbf7cbeab2122cdb259fadc48",
+  "temporal_validation_code_sha256": "0299279a6236d6aba9d5e97e7d971595e2e0fad9b4ff32d9f7d9081c4e8535d4",
+  "documented_codes_unseen_in_development": [
+    {
+      "field": "AMarStIj",
+      "code": "7",
+      "dictionary_page": 170,
+      "mapped_to": "__OTHER__",
+      "n_temporal_patients": 1
+    }
+  ],
+  "prediction_rule": "saved M0 fixed effects only; no refit or patient random effect",
+  "imputation_rule": "one previously saved MICE completion; development-train-fitted imputer and selected source draw index",
+  "selected_mice_draw_index": 2,
+  "outcome_rule": "observed 0-100 only; after death and same-year uncertainty excluded",
+  "no_20_year_evaluation": true
+}

@@ -1,0 +1,7 @@
+﻿split,sex_group,n_patients,fraction_in_split
+internal_validation,female,147,0.1860759493670886
+internal_validation,male,643,0.8139240506329114
+temporal_test_primary,female,573,0.21954022988505748
+temporal_test_primary,male,2037,0.7804597701149425
+train,female,643,0.20341664030370135
+train,male,2518,0.7965833596962987

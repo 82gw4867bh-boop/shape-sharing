@@ -1,0 +1,11 @@
+{
+  "selection_data": "1995-2000 internal_validation only",
+  "selection_rule": "minimum equal-weight mean RMSE across four CHART domains; lower source index breaks ties",
+  "selected_source_draw_index_zero_based": 2,
+  "selected_source_draw_number_one_based": 3,
+  "screening_mice_imputations": 5,
+  "final_mice_imputations": 1,
+  "source_upstream_manifest_sha256": "aab03f9151c2c5c6e428ae2b05074e33c4b3638c661b35b49f33f4912c83ee6f",
+  "source_m0_metadata_sha256": "e7d986c50590999ae2a1470bd973cb3ad9f2d5d2a54a2745ec13f191d3430d7f",
+  "mice_refitted": false
+}

@@ -1,0 +1,15 @@
+{
+  "source_archive_sha256": "005a0545dc0be3db9d96d34a4ffd2805be29cf93395c3a4f79f060d5de59475f",
+  "selection_sha256": "6918296747d6395e364d75974213f6f170913063d1bbfb5fc5f27c57f4ca3e87",
+  "pool_sha256": "a9dd92f8c4e5798ef00c43fb588e1daccd212ef4d52a66a3d415a9137fcddbfa",
+  "n_distinct_selected_fields": 25,
+  "split_n": {
+    "train": 3161,
+    "temporal_test_primary": 2610,
+    "internal_validation": 790
+  },
+  "unit": "one Form I row per adult patient",
+  "missing_definition": "blank or declared special code after the existing deterministic harmonization",
+  "outcome_data_used": false,
+  "temporal_status": "exploratory, same-database time holdout opened before freeze"
+}
